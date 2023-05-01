@@ -15,5 +15,5 @@ Note: THe inputs required are Case Sensitive. Refer to the CSV file if some coun
 
 
 Project Made By:
-Muhammad Hamza Aamit
+Muhammad Hamza Aamir
 Aniqa Tufail
