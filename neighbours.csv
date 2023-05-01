@@ -1,0 +1,664 @@
+countrycode,countryname,countrybordercode,countrybordername
+AD,Andorra,FR,France
+AD,Andorra,ES,Spain
+AE,United Arab Emirates,OM,Oman
+AE,United Arab Emirates,SA,Saudi Arabia
+AF,Afghanistan,CN,China
+AF,Afghanistan,IR,Iran
+AF,Afghanistan,PK,Pakistan
+AF,Afghanistan,TJ,Tajikistan
+AF,Afghanistan,TM,Turkmenistan
+AF,Afghanistan,UZ,Uzbekistan
+AG,Antigua and Barbuda,,
+AI,Anguilla,,
+AL,Albania,GR,Greece
+AL,Albania,RS,Serbia
+AM,Armenia,AZ,Azerbaijan
+AM,Armenia,GE,Georgia
+AM,Armenia,IR,Iran
+AM,Armenia,TR,Turkey
+AO,Angola,CG,Congo
+AO,Angola,CD,Democratic Republic of Congo
+AO,Angola,NA,Namibia
+AO,Angola,ZM,Zambia
+AR,Argentina,BO,Bolivia
+AR,Argentina,BR,Brazil
+AR,Argentina,CL,Chile
+AR,Argentina,PY,Paraguay
+AR,Argentina,UY,Uruguay
+AS,American Samoa,,
+AT,Austria,CZ,Czechia
+AT,Austria,DE,Germany
+AT,Austria,HU,Hungary
+AT,Austria,IT,Italy
+AT,Austria,LI,Liechtenstein
+AT,Austria,SK,Slovakia
+AT,Austria,SI,Slovenia
+AT,Austria,CH,Switzerland
+AU,Australia,,
+AW,Aruba,,
+AZ,Azerbaijan,AM,Armenia
+AZ,Azerbaijan,GE,Georgia
+AZ,Azerbaijan,IR,Iran
+AZ,Azerbaijan,RU,Russia
+AZ,Azerbaijan,TR,Turkey
+BA,Bosnia and Herzegovina,HR,Croatia
+BA,Bosnia and Herzegovina,RS,Serbia
+BB,Barbados,,
+BD,Bangladesh,IN,India
+BD,Bangladesh,MM,Myanmar
+BE,Belgium,FR,France
+BE,Belgium,DE,Germany
+BE,Belgium,LU,Luxembourg
+BE,Belgium,NL,Netherlands
+BF,Burkina Faso,BJ,Benin
+BF,Burkina Faso,CI,Cote d'Ivoire
+BF,Burkina Faso,GH,Ghana
+BF,Burkina Faso,ML,Mali
+BF,Burkina Faso,NE,Niger
+BF,Burkina Faso,TG,Togo
+BG,Bulgaria,GR,Greece
+BG,Bulgaria,RO,Romania
+BG,Bulgaria,RS,Serbia
+BG,Bulgaria,TR,Turkey
+BH,Bahrain,,
+BI,Burundi,CD,Democratic Republic of Congo
+BI,Burundi,RW,Rwanda
+BI,Burundi,TZ,Tanzania
+BJ,Benin,BF,Burkina Faso
+BJ,Benin,NE,Niger
+BJ,Benin,NG,Nigeria
+BJ,Benin,TG,Togo
+BM,Bermuda,,
+BN,Brunei,MY,Malaysia
+BO,Bolivia,AR,Argentina
+BO,Bolivia,BR,Brazil
+BO,Bolivia,CL,Chile
+BO,Bolivia,PY,Paraguay
+BO,Bolivia,PE,Peru
+BR,Brazil,AR,Argentina
+BR,Brazil,BO,Bolivia
+BR,Brazil,CO,Colombia
+BR,Brazil,GF,French Guiana
+BR,Brazil,GY,Guyana
+BR,Brazil,PY,Paraguay
+BR,Brazil,PE,Peru
+BR,Brazil,SR,Suriname
+BR,Brazil,UY,Uruguay
+BR,Brazil,VE,Venezuela
+BS,Bahamas,,
+BT,Bhutan,CN,China
+BT,Bhutan,IN,India
+BW,Botswana,NA,Namibia
+BW,Botswana,ZA,South Africa
+BW,Botswana,ZM,Zambia
+BW,Botswana,ZW,Zimbabwe
+BY,Belarus,LV,Latvia
+BY,Belarus,LT,Lithuania
+BY,Belarus,PL,Poland
+BY,Belarus,RU,Russia
+BY,Belarus,UA,Ukraine
+BZ,Belize,GT,Guatemala
+BZ,Belize,MX,Mexico
+CA,Canada,US,United States of America
+CD,Democratic Republic of Congo,AO,Angola
+CD,Democratic Republic of Congo,BI,Burundi
+CD,Democratic Republic of Congo,CF,Central African Republic
+CD,Democratic Republic of Congo,CG,Congo
+CD,Democratic Republic of Congo,RW,Rwanda
+CD,Democratic Republic of Congo,TZ,Tanzania
+CD,Democratic Republic of Congo,UG,Uganda
+CD,Democratic Republic of Congo,ZM,Zambia
+CF,Central African Republic,CM,Cameroon
+CF,Central African Republic,TD,Chad
+CF,Central African Republic,CG,Congo
+CF,Central African Republic,CD,Democratic Republic of Congo
+CF,Central African Republic,SD,Sudan
+CG,Congo,AO,Angola
+CG,Congo,CM,Cameroon
+CG,Congo,CF,Central African Republic
+CG,Congo,CD,Democratic Republic of Congo
+CG,Congo,GA,Gabon
+CH,Switzerland,AT,Austria
+CH,Switzerland,FR,France
+CH,Switzerland,DE,Germany
+CH,Switzerland,IT,Italy
+CH,Switzerland,LI,Liechtenstein
+CI,Cote d'Ivoire,BF,Burkina Faso
+CI,Cote d'Ivoire,GH,Ghana
+CI,Cote d'Ivoire,GN,Guinea
+CI,Cote d'Ivoire,LR,Liberia
+CI,Cote d'Ivoire,ML,Mali
+CK,Cook Islands,,
+CL,Chile,AR,Argentina
+CL,Chile,BO,Bolivia
+CL,Chile,PE,Peru
+CM,Cameroon,CF,Central African Republic
+CM,Cameroon,TD,Chad
+CM,Cameroon,CG,Congo
+CM,Cameroon,GQ,Equatorial Guinea
+CM,Cameroon,GA,Gabon
+CM,Cameroon,NG,Nigeria
+CN,China,AF,Afghanistan
+CN,China,BT,Bhutan
+CN,China,HK,Hong Kong
+CN,China,IN,India
+CN,China,KZ,Kazakhstan
+CN,China,KP,North Korea
+CN,China,KG,Kyrgyzstan
+CN,China,LA,Laos
+CN,China,MO,Macao
+CN,China,MN,Mongolia
+CN,China,MM,Myanmar
+CN,China,NP,Nepal
+CN,China,PK,Pakistan
+CN,China,RU,Russia
+CN,China,TJ,Tajikistan
+CN,China,VN,Vietnam
+CO,Colombia,BR,Brazil
+CO,Colombia,EC,Ecuador
+CO,Colombia,PA,Panama
+CO,Colombia,PE,Peru
+CO,Colombia,VE,Venezuela
+CR,Costa Rica,NI,Nicaragua
+CR,Costa Rica,PA,Panama
+CU,Cuba,,
+CY,Cyprus,,
+CZ,Czechia,AT,Austria
+CZ,Czechia,DE,Germany
+CZ,Czechia,PL,Poland
+CZ,Czechia,SK,Slovakia
+DE,Germany,AT,Austria
+DE,Germany,BE,Belgium
+DE,Germany,CZ,Czechia
+DE,Germany,DK,Denmark
+DE,Germany,FR,France
+DE,Germany,LU,Luxembourg
+DE,Germany,NL,Netherlands
+DE,Germany,PL,Poland
+DE,Germany,CH,Switzerland
+DJ,Djibouti,ER,Eritrea
+DJ,Djibouti,ET,Ethiopia
+DJ,Djibouti,SO,Somalia
+DK,Denmark,DE,Germany
+DM,Dominica,,
+DO,Dominican Republic,HT,Haiti
+DZ,Algeria,LY,Libya
+DZ,Algeria,ML,Mali
+DZ,Algeria,MR,Mauritania
+DZ,Algeria,MA,Morocco
+DZ,Algeria,NE,Niger
+DZ,Algeria,TN,Tunisia
+DZ,Algeria,EH,Western Sahara
+EC,Ecuador,CO,Colombia
+EC,Ecuador,PE,Peru
+EE,Estonia,LV,Latvia
+EE,Estonia,RU,Russia
+EG,Egypt,IL,Israel
+EG,Egypt,LY,Libya
+EG,Egypt,SD,Sudan
+EH,Western Sahara,DZ,Algeria
+EH,Western Sahara,MR,Mauritania
+EH,Western Sahara,MA,Morocco
+ER,Eritrea,DJ,Djibouti
+ER,Eritrea,ET,Ethiopia
+ER,Eritrea,SD,Sudan
+ES,Spain,AD,Andorra
+ES,Spain,FR,France
+ES,Spain,GI,Gibraltar
+ES,Spain,MA,Morocco
+ES,Spain,PT,Portugal
+ET,Ethiopia,DJ,Djibouti
+ET,Ethiopia,ER,Eritrea
+ET,Ethiopia,KE,Kenya
+ET,Ethiopia,SO,Somalia
+ET,Ethiopia,SD,Sudan
+FI,Finland,NO,Norway
+FI,Finland,RU,Russia
+FI,Finland,SE,Sweden
+FJ,Fiji,,
+FM,Micronesia,,
+FO,Faroe Islands,,
+FR,France,AD,Andorra
+FR,France,BE,Belgium
+FR,France,DE,Germany
+FR,France,IT,Italy
+FR,France,LU,Luxembourg
+FR,France,MC,Monaco
+FR,France,ES,Spain
+FR,France,CH,Switzerland
+GA,Gabon,CM,Cameroon
+GA,Gabon,CG,Congo
+GA,Gabon,GQ,Equatorial Guinea
+GB,United Kingdom,IE,Ireland
+GD,Grenada,,
+GE,Georgia,AM,Armenia
+GE,Georgia,AZ,Azerbaijan
+GE,Georgia,RU,Russia
+GE,Georgia,TR,Turkey
+GF,French Guiana,BR,Brazil
+GF,French Guiana,SR,Suriname
+GG,Guernsey,,
+GH,Ghana,BF,Burkina Faso
+GH,Ghana,CI,Cote d'Ivoire
+GH,Ghana,TG,Togo
+GI,Gibraltar,ES,Spain
+GL,Greenland,,
+GM,Gambia,SN,Senegal
+GN,Guinea,CI,Cote d'Ivoire
+GN,Guinea,GW,Guinea-Bissau
+GN,Guinea,LR,Liberia
+GN,Guinea,ML,Mali
+GN,Guinea,SN,Senegal
+GN,Guinea,SL,Sierra Leone
+GP,Guadeloupe,,
+GQ,Equatorial Guinea,CM,Cameroon
+GQ,Equatorial Guinea,GA,Gabon
+GR,Greece,AL,Albania
+GR,Greece,BG,Bulgaria
+GR,Greece,TR,Turkey
+GT,Guatemala,BZ,Belize
+GT,Guatemala,SV,El Salvador
+GT,Guatemala,HN,Honduras
+GT,Guatemala,MX,Mexico
+GU,Guam,,
+GW,Guinea-Bissau,GN,Guinea
+GW,Guinea-Bissau,SN,Senegal
+GY,Guyana,BR,Brazil
+GY,Guyana,SR,Suriname
+GY,Guyana,VE,Venezuela
+HK,Hong Kong,CN,China
+HN,Honduras,SV,El Salvador
+HN,Honduras,GT,Guatemala
+HN,Honduras,NI,Nicaragua
+HR,Croatia,BA,Bosnia and Herzegovina
+HR,Croatia,HU,Hungary
+HR,Croatia,RS,Serbia
+HR,Croatia,SI,Slovenia
+HT,Haiti,DO,Dominican Republic
+HU,Hungary,AT,Austria
+HU,Hungary,HR,Croatia
+HU,Hungary,RO,Romania
+HU,Hungary,RS,Serbia
+HU,Hungary,SK,Slovakia
+HU,Hungary,SI,Slovenia
+HU,Hungary,UA,Ukraine
+ID,Indonesia,MY,Malaysia
+ID,Indonesia,PG,Papua New Guinea
+IE,Ireland,GB,United Kingdom
+IL,Israel,EG,Egypt
+IL,Israel,JO,Jordan
+IL,Israel,LB,Lebanon
+IL,Israel,SY,Syria
+IM,Isle of Man,,
+IN,India,BD,Bangladesh
+IN,India,BT,Bhutan
+IN,India,CN,China
+IN,India,MM,Myanmar
+IN,India,NP,Nepal
+IN,India,PK,Pakistan
+IO,British Virgin Islands,,
+IQ,Iraq,IR,Iran
+IQ,Iraq,JO,Jordan
+IQ,Iraq,KW,Kuwait
+IQ,Iraq,SA,Saudi Arabia
+IQ,Iraq,SY,Syria
+IQ,Iraq,TR,Turkey
+IR,Iran,AF,Afghanistan
+IR,Iran,AM,Armenia
+IR,Iran,AZ,Azerbaijan
+IR,Iran,IQ,Iraq
+IR,Iran,PK,Pakistan
+IR,Iran,TR,Turkey
+IR,Iran,TM,Turkmenistan
+IS,Iceland,,
+IT,Italy,AT,Austria
+IT,Italy,FR,France
+IT,Italy,SM,San Marino
+IT,Italy,SI,Slovenia
+IT,Italy,CH,Switzerland
+JE,Jersey,,
+JM,Jamaica,,
+JO,Jordan,IQ,Iraq
+JO,Jordan,IL,Israel
+JO,Jordan,SA,Saudi Arabia
+JO,Jordan,SY,Syria
+JP,Japan,,
+KE,Kenya,ET,Ethiopia
+KE,Kenya,SO,Somalia
+KE,Kenya,TZ,Tanzania
+KE,Kenya,UG,Uganda
+KG,Kyrgyzstan,CN,China
+KG,Kyrgyzstan,KZ,Kazakhstan
+KG,Kyrgyzstan,TJ,Tajikistan
+KG,Kyrgyzstan,UZ,Uzbekistan
+KH,Cambodia,LA,Laos
+KH,Cambodia,TH,Thailand
+KH,Cambodia,VN,Vietnam
+KI,Kiribati,,
+KM,Comoros,,
+KN,Saint Kitts and Nevis,,
+KP,North Korea,CN,China
+KP,North Korea,KR,South Korea
+KP,North Korea,RU,Russia
+KR,South Korea,KP,North Korea
+KW,Kuwait,IQ,Iraq
+KW,Kuwait,SA,Saudi Arabia
+KY,Cayman Islands,,
+KZ,Kazakhstan,CN,China
+KZ,Kazakhstan,KG,Kyrgyzstan
+KZ,Kazakhstan,RU,Russia
+KZ,Kazakhstan,TM,Turkmenistan
+KZ,Kazakhstan,UZ,Uzbekistan
+LA,Laos,CN,China
+LA,Laos,KH,Cambodia
+LA,Laos,MM,Myanmar
+LA,Laos,TH,Thailand
+LA,Laos,VN,Vietnam
+LB,Lebanon,IL,Israel
+LB,Lebanon,SY,Syria
+LC,Saint Lucia,,
+LI,Liechtenstein,AT,Austria
+LI,Liechtenstein,CH,Switzerland
+LK,Sri Lanka,,
+LR,Liberia,CI,Cote d'Ivoire
+LR,Liberia,GN,Guinea
+LR,Liberia,SL,Sierra Leone
+LS,Lesotho,ZA,South Africa
+LT,Lithuania,BY,Belarus
+LT,Lithuania,LV,Latvia
+LT,Lithuania,PL,Poland
+LT,Lithuania,RU,Russia
+LU,Luxembourg,BE,Belgium
+LU,Luxembourg,DE,Germany
+LU,Luxembourg,FR,France
+LV,Latvia,BY,Belarus
+LV,Latvia,EE,Estonia
+LV,Latvia,LT,Lithuania
+LV,Latvia,RU,Russia
+LY,Libya,DZ,Algeria
+LY,Libya,TD,Chad
+LY,Libya,EG,Egypt
+LY,Libya,NE,Niger
+LY,Libya,SD,Sudan
+LY,Libya,TN,Tunisia
+MA,Morocco,DZ,Algeria
+MA,Morocco,ES,Spain
+MA,Morocco,EH,Western Sahara
+MC,Monaco,FR,France
+MD,Moldova,RO,Romania
+MD,Moldova,UA,Ukraine
+MG,Madagascar,,
+MH,Marshall Islands,,
+ML,Mali,DZ,Algeria
+ML,Mali,BF,Burkina Faso
+ML,Mali,CI,Cote d'Ivoire
+ML,Mali,GN,Guinea
+ML,Mali,MR,Mauritania
+ML,Mali,NE,Niger
+ML,Mali,SN,Senegal
+MM,Myanmar,BD,Bangladesh
+MM,Myanmar,CN,China
+MM,Myanmar,IN,India
+MM,Myanmar,LA,Laos
+MM,Myanmar,TH,Thailand
+MN,Mongolia,CN,China
+MN,Mongolia,RU,Russia
+MO,Macao,CN,China
+MP,Northern Mariana Islands,,
+MQ,Martinique,,
+MR,Mauritania,DZ,Algeria
+MR,Mauritania,ML,Mali
+MR,Mauritania,SN,Senegal
+MR,Mauritania,EH,Western Sahara
+MS,Montserrat,,
+MT,Malta,,
+MU,Mauritius,,
+MV,Maldives,,
+MW,Malawi,MZ,Mozambique
+MW,Malawi,TZ,Tanzania
+MW,Malawi,ZM,Zambia
+MX,Mexico,BZ,Belize
+MX,Mexico,GT,Guatemala
+MX,Mexico,US,United States of America
+MY,Malaysia,BN,Brunei
+MY,Malaysia,ID,Indonesia
+MY,Malaysia,TH,Thailand
+MZ,Mozambique,MW,Malawi
+MZ,Mozambique,ZA,South Africa
+MZ,Mozambique,TZ,Tanzania
+MZ,Mozambique,ZM,Zambia
+MZ,Mozambique,ZW,Zimbabwe
+NA,Namibia,AO,Angola
+NA,Namibia,BW,Botswana
+NA,Namibia,ZA,South Africa
+NA,Namibia,ZM,Zambia
+NC,New Caledonia,,
+NE,Niger,DZ,Algeria
+NE,Niger,BJ,Benin
+NE,Niger,BF,Burkina Faso
+NE,Niger,TD,Chad
+NE,Niger,LY,Libya
+NE,Niger,ML,Mali
+NE,Niger,NG,Nigeria
+NG,Nigeria,BJ,Benin
+NG,Nigeria,CM,Cameroon
+NG,Nigeria,TD,Chad
+NG,Nigeria,NE,Niger
+NI,Nicaragua,CR,Costa Rica
+NI,Nicaragua,HN,Honduras
+NL,Netherlands,BE,Belgium
+NL,Netherlands,DE,Germany
+NO,Norway,FI,Finland
+NO,Norway,RU,Russia
+NO,Norway,SE,Sweden
+NP,Nepal,CN,China
+NP,Nepal,IN,India
+NR,Nauru,,
+NZ,New Zealand,,
+OM,Oman,AE,United Arab Emirates
+OM,Oman,SA,Saudi Arabia
+OM,Oman,YE,Yemen
+PA,Panama,CO,Colombia
+PA,Panama,CR,Costa Rica
+PE,Peru,BO,Bolivia
+PE,Peru,BR,Brazil
+PE,Peru,CL,Chile
+PE,Peru,CO,Colombia
+PE,Peru,EC,Ecuador
+PF,French Polynesia,,
+PG,Papua New Guinea,ID,Indonesia
+PH,Philippines,,
+PK,Pakistan,AF,Afghanistan
+PK,Pakistan,CN,China
+PK,Pakistan,IN,India
+PK,Pakistan,IR,Iran
+PL,Poland,BY,Belarus
+PL,Poland,CZ,Czechia
+PL,Poland,DE,Germany
+PL,Poland,LT,Lithuania
+PL,Poland,RU,Russia
+PL,Poland,SK,Slovakia
+PL,Poland,UA,Ukraine
+PM,Saint Pierre and Miquelon,,
+PR,Puerto Rico,,
+PT,Portugal,ES,Spain
+PW,Palau,,
+PY,Paraguay,AR,Argentina
+PY,Paraguay,BO,Bolivia
+PY,Paraguay,BR,Brazil
+QA,Qatar,SA,Saudi Arabia
+RE,Reunion,,
+RO,Romania,BG,Bulgaria
+RO,Romania,HU,Hungary
+RO,Romania,MD,Moldova
+RO,Romania,RS,Serbia
+RO,Romania,UA,Ukraine
+RS,Serbia,AL,Albania
+RS,Serbia,BA,Bosnia and Herzegovina
+RS,Serbia,BG,Bulgaria
+RS,Serbia,HR,Croatia
+RS,Serbia,HU,Hungary
+RS,Serbia,RO,Romania
+RU,Russia,AZ,Azerbaijan
+RU,Russia,BY,Belarus
+RU,Russia,CN,China
+RU,Russia,EE,Estonia
+RU,Russia,FI,Finland
+RU,Russia,GE,Georgia
+RU,Russia,KZ,Kazakhstan
+RU,Russia,KP,North Korea
+RU,Russia,LV,Latvia
+RU,Russia,LT,Lithuania
+RU,Russia,MN,Mongolia
+RU,Russia,NO,Norway
+RU,Russia,PL,Poland
+RU,Russia,UA,Ukraine
+RW,Rwanda,BI,Burundi
+RW,Rwanda,CD,Democratic Republic of Congo
+RW,Rwanda,TZ,Tanzania
+RW,Rwanda,UG,Uganda
+SA,Saudi Arabia,IQ,Iraq
+SA,Saudi Arabia,JO,Jordan
+SA,Saudi Arabia,KW,Kuwait
+SA,Saudi Arabia,OM,Oman
+SA,Saudi Arabia,QA,Qatar
+SA,Saudi Arabia,AE,United Arab Emirates
+SA,Saudi Arabia,YE,Yemen
+SB,Solomon Islands,,
+SC,Seychelles,,
+SD,Sudan,CF,Central African Republic
+SD,Sudan,TD,Chad
+SD,Sudan,EG,Egypt
+SD,Sudan,ET,Ethiopia
+SD,Sudan,ER,Eritrea
+SD,Sudan,LY,Libya
+SE,Sweden,FI,Finland
+SE,Sweden,NO,Norway
+SG,Singapore,,
+SH,Saint Helena,,
+SI,Slovenia,AT,Austria
+SI,Slovenia,HR,Croatia
+SI,Slovenia,HU,Hungary
+SI,Slovenia,IT,Italy
+SK,Slovakia,AT,Austria
+SK,Slovakia,CZ,Czechia
+SK,Slovakia,HU,Hungary
+SK,Slovakia,PL,Poland
+SK,Slovakia,UA,Ukraine
+SL,Sierra Leone,GN,Guinea
+SL,Sierra Leone,LR,Liberia
+SM,San Marino,IT,Italy
+SN,Senegal,GM,Gambia
+SN,Senegal,GN,Guinea
+SN,Senegal,GW,Guinea-Bissau
+SN,Senegal,ML,Mali
+SN,Senegal,MR,Mauritania
+SO,Somalia,DJ,Djibouti
+SO,Somalia,ET,Ethiopia
+SO,Somalia,KE,Kenya
+SR,Suriname,BR,Brazil
+SR,Suriname,GF,French Guiana
+SR,Suriname,GY,Guyana
+ST,Sao Tome and Principe,,
+SV,El Salvador,GT,Guatemala
+SV,El Salvador,HN,Honduras
+SY,Syria,IQ,Iraq
+SY,Syria,IL,Israel
+SY,Syria,JO,Jordan
+SY,Syria,LB,Lebanon
+SY,Syria,TR,Turkey
+TC,Turks and Caicos Islands,,
+TD,Chad,CM,Cameroon
+TD,Chad,CF,Central African Republic
+TD,Chad,LY,Libya
+TD,Chad,NE,Niger
+TD,Chad,NG,Nigeria
+TD,Chad,SD,Sudan
+TG,Togo,BJ,Benin
+TG,Togo,BF,Burkina Faso
+TG,Togo,GH,Ghana
+TH,Thailand,KH,Cambodia
+TH,Thailand,LA,Laos
+TH,Thailand,MY,Malaysia
+TH,Thailand,MM,Myanmar
+TJ,Tajikistan,AF,Afghanistan
+TJ,Tajikistan,CN,China
+TJ,Tajikistan,KG,Kyrgyzstan
+TJ,Tajikistan,UZ,Uzbekistan
+TM,Turkmenistan,AF,Afghanistan
+TM,Turkmenistan,IR,Iran
+TM,Turkmenistan,KZ,Kazakhstan
+TM,Turkmenistan,UZ,Uzbekistan
+TN,Tunisia,DZ,Algeria
+TN,Tunisia,LY,Libya
+TO,Tonga,,
+TR,Turkey,AM,Armenia
+TR,Turkey,AZ,Azerbaijan
+TR,Turkey,BG,Bulgaria
+TR,Turkey,GE,Georgia
+TR,Turkey,GR,Greece
+TR,Turkey,IR,Iran
+TR,Turkey,IQ,Iraq
+TR,Turkey,SY,Syria
+TT,Trinidad and Tobago,,
+TV,Tuvalu,,
+TW,Taiwan,,
+TZ,Tanzania,BI,Burundi
+TZ,Tanzania,CD,Democratic Republic of Congo
+TZ,Tanzania,KE,Kenya
+TZ,Tanzania,MW,Malawi
+TZ,Tanzania,MZ,Mozambique
+TZ,Tanzania,RW,Rwanda
+TZ,Tanzania,UG,Uganda
+TZ,Tanzania,ZM,Zambia
+UA,Ukraine,BY,Belarus
+UA,Ukraine,HU,Hungary
+UA,Ukraine,MD,Moldova
+UA,Ukraine,PL,Poland
+UA,Ukraine,RO,Romania
+UA,Ukraine,RU,Russia
+UA,Ukraine,SK,Slovakia
+UG,Uganda,CD,Democratic Republic of Congo
+UG,Uganda,KE,Kenya
+UG,Uganda,RW,Rwanda
+UG,Uganda,TZ,Tanzania
+US,United States of America,CA,Canada
+US,United States of America,MX,Mexico
+UY,Uruguay,AR,Argentina
+UY,Uruguay,BR,Brazil
+UZ,Uzbekistan,AF,Afghanistan
+UZ,Uzbekistan,KZ,Kazakhstan
+UZ,Uzbekistan,KG,Kyrgyzstan
+UZ,Uzbekistan,TJ,Tajikistan
+UZ,Uzbekistan,TM,Turkmenistan
+VC,Saint Vincent and the Grenadines,,
+VE,Venezuela,BR,Brazil
+VE,Venezuela,CO,Colombia
+VE,Venezuela,GY,Guyana
+VN,Vietnam,KH,Cambodia
+VN,Vietnam,CN,China
+VN,Vietnam,LA,Laos
+VU,Vanuatu,,
+WF,Wallis and Futuna,,
+WS,Samoa,,
+YE,Yemen,OM,Oman
+YE,Yemen,SA,Saudi Arabia
+YT,Mayotte,,
+ZA,South Africa,BW,Botswana
+ZA,South Africa,LS,Lesotho
+ZA,South Africa,MZ,Mozambique
+ZA,South Africa,NA,Namibia
+ZA,South Africa,ZW,Zimbabwe
+ZM,Zambia,AO,Angola
+ZM,Zambia,BW,Botswana
+ZM,Zambia,CD,Democratic Republic of Congo
+ZM,Zambia,MW,Malawi
+ZM,Zambia,MZ,Mozambique
+ZM,Zambia,NA,Namibia
+ZM,Zambia,TZ,Tanzania
+ZM,Zambia,ZW,Zimbabwe
+ZW,Zimbabwe,BW,Botswana
+ZW,Zimbabwe,MZ,Mozambique
+ZW,Zimbabwe,ZA,South Africa
+ZW,Zimbabwe,ZM,Zambia
